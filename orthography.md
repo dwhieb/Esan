@@ -3,19 +3,24 @@ Sunny uses a modified Roman alphabet to write Esan, which appears to be a common
 Grapheme | Phoneme
 :------: | :-----:
 a        | a
+an       | ã
 b        | b
 bh       | β
 d        | d
 e        | e
+en       | ẽ
 ẹ        | ɛ
+ẹn       | ɛ̃
 f        | f
 g        | g
 gb       | g͡b
 gh       | ɣ
-gw       | gʷ
+gw       | gʷ / ɣʷ
 h        | h
 i        | i
+in       | ĩ
 ị        | ɪ
+ịn       | ɪ̃
 j        | d͡ʒ
 k        | k
 kh       | x
@@ -27,7 +32,9 @@ m        | m
 mh       | ɸ
 n        | n
 o        | o
+on       | õ
 ọ        | ɔ
+ọn       | ɔ̃
 p        | p
 nw       | nʷ
 ny       | ɲ
@@ -37,9 +44,11 @@ s        | s
 sh       | ʃ
 t        | t
 u        | u
+un       | ũ
 ụ        | ʊ
+ụn       | ʊ̃
 v        | v
-w        | w
+w        | w / ɣʷ
 y        | j
 z        | z
 

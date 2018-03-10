@@ -1,5 +1,5 @@
 # Esan
-Data on the Esan language, collected by Daniel W. Hieber in conjunction with Sunny Akhigbe in Chicago, January 2018.
+Data on the Esan language, collected by Daniel W. Hieber in conjunction with Sunny Akhigbe in Chicago, February 2018.
 
 You may cite the data in this repository using Zenodo, following the model below.
 

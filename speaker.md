@@ -2,11 +2,18 @@
 
 **Name:** Sunny Akhigbe
 
+**Abbreviation:** SA or S
+
 **Pseudonym:** Ambrose Okosun
 
 **NB:** `S` is the abbreviation used to refer to Sunny. `S: {comment}` indicates that the comment following the colon is attriuted to Sunny. My own comments are in `[square brackets]`.
 
-Sunny publishes under the pseudonym Ambrose Okosun. His autobiographical account, [_A boy and his dream_][1], is published under this name.
+Sunny publishes under the pseudonym Ambrose Okosun. His autobiographical account, [_A boy and his dream_][1], is published under this name. Sunny's last name is the shorted version of a phrase:
+
+```
+akhigbe mona
+'untouchable' (lit. 'you can't touch this')
+```
 
 ## Languages Spoken
 

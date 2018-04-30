@@ -37,7 +37,7 @@
         <Int>109</Int>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>362389</Long>
+        <Long>237233</Long>
     </pref>
     <pref key="InterlinearizationMode.LeftRightSplit">
         <Double>0.18311403508771928</Double>
@@ -76,7 +76,7 @@
         <Int>352</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>363113</Long>
+        <Long>237946</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>Transcription</String>
@@ -99,7 +99,7 @@
         <String>Modification Date</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>219</Int>
+        <Int>319</Int>
     </pref>
     <prefGroup key="TranscriptionTable.TierMap">
         <prefList key="Transcription">
@@ -136,7 +136,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>362389</Long>
+        <Long>237233</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="Notes">
@@ -213,7 +213,7 @@
         <Double>0.3227016885553471</Double>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>360850</Long>
+        <Long>237198</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <prefList key="InterlinearizationConfigurations"/>

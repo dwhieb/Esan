@@ -6,6 +6,7 @@
 - [ ] how to ask how a person is doing
 - [ ] animals
 - [ ] kinship terms
+- [ ] weather terms
 - [ ] geospatial coordinates for Esan villages
 - [ ] possessives (with body parts, family members, other people, animals, inanimate objects)
 - [ ] possessive pronoun (mine, yours, his, etc.)

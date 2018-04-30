@@ -22,4 +22,3 @@
 # Morphosyntax to Elicit
 - [ ] possessives (with body parts, family members, other people, animals, inanimate objects)
 - [ ] possessive pronoun (mine, yours, his, etc.)
-- [ ] morphological analysis of phrases in SA001: Villages and numbers

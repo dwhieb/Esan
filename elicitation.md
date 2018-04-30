@@ -14,7 +14,9 @@
 # Vocabulary to Elicit
 - [x] village names
 - [x] colors
+- [x] numbers 1-10
 - [x] body parts
+- [x] basic verbs
 - [ ] animals
 - [ ] kinship terms
 - [ ] weather terms

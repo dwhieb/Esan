@@ -5,8 +5,8 @@
 
 # Things to Learn
 - [x] how to greet someone
+- [x] how to ask how a person is doing
 - [ ] how to say goodbye
-- [ ] how to ask how a person is doing
 - [ ] how to introduce yourself
 - [ ] how to ask about someone's wellbeing
 - [ ] language negotiation ('How do you say X?')

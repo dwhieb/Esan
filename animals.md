@@ -1,5 +1,6 @@
 # Animals
 Start with the images on [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_mammals_of_Nigeria).
+Then go through the mammals in [_Wildlife of East Africa_](https://www.amazon.com/Wildlife-Africa-Princeton-Pocket-Guides/dp/0691007373/ref=sr_1_1?ie=UTF8&qid=1525057715&sr=8-1&keywords=wildlife+of+east+africa)
 
 - [aardvark](https://upload.wikimedia.org/wikipedia/commons/e/e9/Orycteropus_afer01.jpg)
 - [African bush elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/African_Bush_Elephant_Mikumi.jpg/440px-African_Bush_Elephant_Mikumi.jpg)

@@ -4,6 +4,7 @@
 - [ ] geospatial coordinates for Esan villages
 
 # Things to Learn
+
 - [x] how to greet someone
 - [x] how to ask how a person is doing
 - [ ] how to say goodbye
@@ -11,7 +12,10 @@
 - [ ] how to ask about someone's wellbeing
 - [ ] language negotiation ('How do you say X?')
 
+# Questions from Previous Sessions
+
 # Vocabulary to Elicit
+
 - [x] village names
 - [x] colors
 - [x] numbers 1-10
@@ -23,5 +27,6 @@
 - [ ] spatial relations
 
 # Morphosyntax to Elicit
+
 - [ ] possessives (with body parts, family members, other people, animals, inanimate objects)
 - [ ] possessive pronoun (mine, yours, his, etc.)

@@ -20,6 +20,7 @@
 - [ ] animals
 - [ ] kinship terms
 - [ ] weather terms
+- [ ] spatial relations
 
 # Morphosyntax to Elicit
 - [ ] possessives (with body parts, family members, other people, animals, inanimate objects)

@@ -34,13 +34,13 @@
         <Object class="java.awt.Point">-13,-13</Object>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>109</Int>
+        <Int>3</Int>
     </pref>
     <pref key="InterlinearizationMode.LeftTopBottomSplit">
         <Double>0.29174484052532834</Double>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>350729</Long>
+        <Long>25842</Long>
     </pref>
     <pref key="InterlinearizationMode.LeftRightSplit">
         <Double>0.18311403508771928</Double>
@@ -52,7 +52,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>653.0612</Float>
+        <Float>311.58716</Float>
     </pref>
     <pref key="InterlinearizationEditor.FontSize">
         <Int>12</Int>
@@ -82,7 +82,7 @@
         <Int>352</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>351219</Long>
+        <Long>26869</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>Transcription</String>
@@ -153,7 +153,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>350729</Long>
+        <Long>25842</Long>
     </pref>
     <prefGroup key="InterlinearizationMode.LexiconPanelPrefs">
         <pref key="LexiconPanel.SelectedLexicon">
@@ -177,7 +177,7 @@
         </pref>
     </prefGroup>
     <pref key="TranscriptionTable.LastActiveColumn">
-        <String>Translation</String>
+        <String>Transcription</String>
     </pref>
     <prefGroup key="InterlinearizationConfigurations.ExcludedTierConfigurations"/>
     <pref key="InterlinearizationMode.RightTopBottomSplit">
@@ -187,11 +187,11 @@
         <String>Transcription</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
-        <pref key="Modification Date">
-            <Int>75</Int>
-        </pref>
         <pref key="Sender">
             <Int>0</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
         </pref>
         <pref key="Tier">
             <Int>75</Int>
@@ -202,25 +202,27 @@
         <pref key="Initials">
             <Int>75</Int>
         </pref>
-        <pref key="Comment">
+        <pref key="Start Time">
             <Int>75</Int>
         </pref>
         <pref key="End Time">
             <Int>75</Int>
         </pref>
-        <pref key="Start Time">
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
             <Int>75</Int>
         </pref>
         <pref key="Recipient">
             <Int>0</Int>
         </pref>
-        <pref key="Thread">
-            <Int>75</Int>
-        </pref>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>350705</Long>
+        <Long>25791</Long>
     </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <prefList key="InterlinearizationConfigurations"/>
     <prefGroup key="TranscriptionTable.ColumnWidth">
         <pref key="3">
             <Int>767</Int>
@@ -232,6 +234,4 @@
             <Int>767</Int>
         </pref>
     </prefGroup>
-    <prefList key="InterlinearizationConfigurations"/>
-    <prefList key="MultiTierViewer.HiddenTiers"/>
 </preferences>

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Please cite this corpus as follows.
+authors:
+- family-names: Hieber
+  given-names:  Daniel W.
+  orcid:        https://orcid.org/0000-0002-1411-3773
+title:         A corpus of Esan
+version:       1.0.0
+doi:           http://doi.org/10.5281/zenodo.1158064
+date-released: '201-01-23'
+url:           https://github.com/dwhieb/Esan
+license-url:   'https://github.com/dwhieb/Esan/blob/main/LICENSE.md'
